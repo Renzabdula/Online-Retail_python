@@ -1,4 +1,4 @@
-Cohort Analysis with Python using Online Retail Dataset
+Cohort Analysis & RFM analysis with Python using Online Retail Dataset
 
 In this notebook, we aim to learn the following:
   1. Perform simple data cleaning and exploration
